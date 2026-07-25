@@ -1,0 +1,193 @@
+---
+article_id: SER-02-02
+title: "Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi"
+slug: "checklist-prasyarat-kelayakan-sertifikasi"
+description: "Check education, experience, documents, evidence, language, safety, and scheme-specific prerequisites"
+status: outline
+publication_date: "2025-11-05"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: SER-02
+primary_intent: "Eligibility preparation"
+reader_community: "Sertifikat.co.id"
+reader_address: "Sobat Sertifikat.co.id"
+final_route: "/artikel/checklist-prasyarat-kelayakan-sertifikasi.html"
+technical_review: required
+sources:
+  - "https://bnsp.go.id/"
+  - "https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf"
+  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
+  - "https://www.iso.org/standard/17024"
+  - "https://bnsp.go.id/lsp"
+  - "https://www.iso.org/iso/casco_-_certification_of_persons.pdf"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”
+- **Reader and situation:** A candidate preparing an application
+- **Reader outcome:** Check education, experience, documents, evidence, language, safety, and scheme-specific prerequisites
+- **Primary intent:** Eligibility preparation
+- **Reader community:** `Sertifikat.co.id`
+- **Primary friendly address:** `Sobat Sertifikat.co.id`
+- **Natural variants:** `Kawan Sertifikat.co.id` and `Teman Sertifikat.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Final eligibility belongs to the current LSP/issuer
+- **Final public route:** `/artikel/checklist-prasyarat-kelayakan-sertifikasi.html`
+- **Appointed CMS date:** `2025-11-05` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Sertifikat.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Sertifikat.co.id`, `Kawan Sertifikat.co.id`, or `Teman Sertifikat.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-19
+
+- **Original sources:** [BNSP official site](https://bnsp.go.id/), [ISO 45001 briefing note](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso_45001_-briefing_note.pdf).
+- **Purpose for this article:** Ground role profiles, training needs, credential verification, practical assessment, authorization, supervision, and refresh after change.
+- **Safe grounded facts:** Scope, issuer, scheme, level, date/expiry, identity, practical context, language/literacy, supervision, and change determine what evidence means.
+- **Limits:** Verify the current regulator/issuer record and job-specific legal requirements; never authenticate a person or grant authorization from an article.
+
+### KR-21
+
+- **Original sources:** [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
+- **Purpose for this article:** Replace price-only selection and marketplace claims with comparable, retrievable evidence.
+- **Safe grounded facts:** A logo, test excerpt, certificate image, seller rating, or “standard-compliant” phrase does not prove the delivered model or installed system conforms.
+- **Limits:** No fabricated stock, price, client, approval, certificate, warranty, availability, or legal entitlement.
+
+### KR-24
+
+- **Original sources:** [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
+- **Purpose for this article:** Keep evergreen education separate from changing `safety.co.id` offers and proof.
+- **Safe grounded facts:** Every live claim needs an owner, original record, scope, date, limitations, and refresh trigger.
+- **Limits:** If proof is absent, keep the article neutral and preserve the evidence gap.
+
+### KR-25
+
+- **Original sources:** [ISO/IEC 17024:2026 certification of persons](https://www.iso.org/standard/17024), [BNSP LSP directory](https://bnsp.go.id/lsp).
+- **Purpose for this article:** Ground certification/training/competence terminology, scheme owner, certification body/LSP, assessment site/TUK, assessor, candidate, issuer, regulator, and recognition boundaries.
+- **Safe grounded facts:** A training certificate, competency certificate, assessor card, LSP name, QR code, logo, accreditation mark, or partner claim does not by itself prove the issuer, current licence/scope, scheme, holder identity, status, or recognition.
+- **Limits:** Verify the exact credential type, scheme/version, issuer and authority, licence/accreditation scope/status, candidate requirements, assessment decision, certificate identifier/status, and intended recognition.
+
+### KR-27
+
+- **Original sources:** [ISO/IEC 17024:2026 certification of persons](https://www.iso.org/standard/17024), [ISO CASCO scheme-development guidance](https://www.iso.org/iso/casco_-_certification_of_persons.pdf).
+- **Purpose for this article:** Ground scope, prerequisites, competence requirements, assessment methods, evidence, decision, surveillance/renewal, changes, impartiality, confidentiality, appeals, and records.
+- **Safe grounded facts:** Experience, course completion, portfolio volume, practice questions, assessor feedback, one passed unit, or employer endorsement does not prove the complete scheme requirements or guarantee a certification decision.
+- **Limits:** Use current scheme documents; verify prerequisites, units/outcomes, evidence rules, methods, decision authority, reassessment, renewal/surveillance, accommodations, complaints/appeals, and prohibited preparation practices.
+
+## Evidence gates
+
+- **TOPIC-GATE:** EG-01, EG-02, EG-09, EG-10.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/lembaga-sertifikasi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/sertifikasi/widya-bahasa-nusantara/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/sertifikasi/transportasi-indonesia/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/sertifikasi/tik-indonesia/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/sertifikasi/tenaga-jasa-pelayanan-kesehatan-indohusada/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/sertifikasi/teknologi-digital/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `SER-02-01` → `/artikel/cara-memilih-skema-sertifikasi.html` — Cara Memilih Skema Sertifikasi yang Relevan dengan Pekerjaan
+- `SER-02-03` → `/artikel/kapan-sertifikasi-wajib-sukarela.html` — Kapan Sertifikasi Wajib, Sukarela, atau Belum Diperlukan?
+- `SER-02-04` → `/artikel/memilih-jenjang-unit-kompetensi.html` — Memilih Jenjang dan Unit Kompetensi Tanpa Salah Sasaran
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Hasil akhir dan prasyarat
+
+- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 1 — tetapkan scope
+
+- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 2 — kumpulkan dan cocokkan bukti
+
+- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Langkah 3 — jalankan urutan kerja
+
+- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Hold point dan kondisi berhenti
+
+- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Verifikasi hasil dan handover
+
+- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Prasyarat dan Kelayakan Sebelum Mendaftar Sertifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Sertifikat.co.id!` and uses friendly `Sertifikat.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
